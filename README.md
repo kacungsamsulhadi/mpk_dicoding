@@ -1,2 +1,2 @@
 # mpk_dicoding
-Submission MPK dicoding 2022
+Submission Memulai Pemrograman dengan Kotlin dicoding 2022
